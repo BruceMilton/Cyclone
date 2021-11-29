@@ -1,0 +1,10 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Tue Aug 21 22:59:55 2018
+        MODULE FILE_FORM__genmod
+          INTERFACE 
+            FUNCTION FILE_FORM(STATE,FORM)
+              LOGICAL(KIND=4) :: STATE
+              LOGICAL(KIND=4) :: FORM
+              REAL(KIND=4) :: FILE_FORM
+            END FUNCTION FILE_FORM
+          END INTERFACE 
+        END MODULE FILE_FORM__genmod

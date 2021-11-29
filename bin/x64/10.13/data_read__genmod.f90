@@ -1,0 +1,8 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Tue Aug 21 22:59:54 2018
+        MODULE DATA_READ__genmod
+          INTERFACE 
+            FUNCTION DATA_READ
+              REAL(KIND=4) :: DATA_READ
+            END FUNCTION DATA_READ
+          END INTERFACE 
+        END MODULE DATA_READ__genmod

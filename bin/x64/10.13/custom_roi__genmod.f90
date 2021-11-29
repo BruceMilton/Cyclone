@@ -1,0 +1,13 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Tue Aug 21 22:59:53 2018
+        MODULE CUSTOM_ROI__genmod
+          INTERFACE 
+            SUBROUTINE CUSTOM_ROI(THETA,R,Z,TAU,NTURN,IROI)
+              REAL(KIND=8), INTENT(IN) :: THETA
+              REAL(KIND=8), INTENT(IN) :: R
+              REAL(KIND=8), INTENT(IN) :: Z
+              REAL(KIND=8), INTENT(IN) :: TAU
+              INTEGER(KIND=4), INTENT(IN) :: NTURN
+              INTEGER(KIND=4), INTENT(IN) :: IROI
+            END SUBROUTINE CUSTOM_ROI
+          END INTERFACE 
+        END MODULE CUSTOM_ROI__genmod
